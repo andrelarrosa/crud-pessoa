@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301998174422",
+    "project_id": "agenda-9e73e",
+    "storage_bucket": "agenda-9e73e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301998174422:android:112a48e75dbd281c7cd977",
+        "android_client_info": {
+          "package_name": "com.example.crud_pessoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301998174422-etopa2vlt2vumjlq97kp66cleko5sd2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQWKvsTI2iFLw4m5xfNZrF7sW43tmurnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301998174422-etopa2vlt2vumjlq97kp66cleko5sd2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
